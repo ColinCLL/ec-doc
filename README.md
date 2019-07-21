@@ -1,2 +1,2 @@
 # ec-doc
- easycharts doc
+ easyset doc
